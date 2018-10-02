@@ -8,7 +8,7 @@ User can select Restaurant according his/her wish. Upon selecting, User can able
 
 ## How to run the APP:
 
-1. Clone the GitHub repository.
+1. Clone the GitHub repository using ```git clone https://github.com/TejaSankuru/Restaurant-Reviews-App-Stage-1.git```.
 2. Project needs a local server to run.
     * Open a bash command line window in the repository folder.
     * Check if python is installed in your computer by typing python -V or py -V. If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
