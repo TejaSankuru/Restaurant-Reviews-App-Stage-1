@@ -12,7 +12,7 @@ User can select Restaurant according his/her wish. Upon selecting, User can able
 2. Project needs a local server to run.
     * Open a bash command line window in the repository folder.
     * Check if python is installed in your computer by typing python -V or py -V. If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
-    * If you have Python 2.x, spin up the server with python -m SimpleHTTPServer 8000 (or some other port, if port 8000 is already in use.) For Python 3.x, you can use py -m http.server 8000 or python3 -m http.server 8000.
+    * If you have Python 2.x, spin up the server with ```python -m SimpleHTTPServer 8000``` (or some other port, if port 8000 is already in use.) For Python 3.x, you can use ```py -m http.server 8000``` or ```python3 -m http.server 8000```.
 3. When you have a server up and running, open your browser and visit the site: http://localhost:8000. 
 
 ## Resources:
